@@ -1,5 +1,7 @@
 numpy
 pandas
 Flask
+Pillow
 requests
+streamlit
 scikit_learn
